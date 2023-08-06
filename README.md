@@ -1,9 +1,7 @@
 ## Hello & Welcome! My name is Miguel
 
-- 📱 Flutter Mobile Dev
-
-- 👨 Pronouns: He/Him
-
+- 📱 Flutter Mobile Dev.
+- ✉️ Contact me via email contatomiguelloq@gmail.com or discord (miguelloq).
 - 🎯 My goal: To understand more and more the software development scenario to the point of being able to contribute to large and consolidated projects.
 - 🗓️ My plans: Fully master Flutter/Dart and improve my native mobile development skills with Swift or Kotlin.
 - 🔥 How I describe myself: As an organized and disciplined person with an immense curiosity in  new technologies and how to always improve my codes!

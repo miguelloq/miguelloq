@@ -1,9 +1,9 @@
 ## Hello & Welcome! My name is Miguel
 
-- 📱 Flutter Mobile Dev.
+- 📱 Mobile Dev.
 - ✉️ Contact me via email contatomiguelloq@gmail.com or discord (miguelloq).
-- 🎯 My goal: To understand more and more the software development scenario to the point of being able to contribute to large and consolidated projects.
-- 🗓️ My plans: Fully master Flutter/Dart and improve my native mobile development skills with Swift or Kotlin.
+- 🎯 My goal: Continue to delve deeper into mobile development and be able to work applying my knowledge of functional programming and concurrency.
+- 🗓️ My plans: To study more about the front/back tools that use Kotlin and to delve deeper into the tools that functional languages ​​such as Clojure, Elixir and Haskell provide.
 - 🔥 How I describe myself: As an organized and disciplined person with an immense curiosity in  new technologies and how to always improve my codes!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelloq&layout=compact&theme=dark)
